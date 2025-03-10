@@ -7,7 +7,8 @@
 📫 yasminsofia.school@gmail.com
 
 ## 🌐 social
-https://www.instagram.com/yas.snm?igsh=MWZ6c3QwZzBnbHQwaw==
+[![Instagram Badge](https://img.shields.io/badge/-yas.snm-purple?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/yas.snm?igsh=MWZ6c3QwZzBnbHQwaw==)(https://www.instagram.com/yas.snm?igsh=MWZ6c3QwZzBnbHQwaw==))
+
 
 ## 🚀💻 tecnologias
 
