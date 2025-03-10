@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **yas-snm/yas-snm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👩‍💻 Área de desenvolvimento, linguagem de programação e tecnologia
