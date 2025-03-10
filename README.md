@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 👩‍💻 Área de desenvolvimento, linguagem de programação e tecnologia
+
 🔭 Ensino Médio Técnico em TI - FIAP
+
 📫 yasminsofia.school@gmail.com
 
 ## 🌐 social
